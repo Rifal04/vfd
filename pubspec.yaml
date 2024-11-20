@@ -1,0 +1,44 @@
+name: vfd
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.17
+  image_picker: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+    - assets/batagor.jpg
+    - assets/karedok.jpg
+    - assets/lotek.jpg
+    - assets/pepes_ikan.jpg
+    - assets/nasi_liwet.jpg
+    - assets/sate_maranggi.jpg
+    - assets/sayur_asem.jpg
+    - assets/soto_bandung.jpg
+    - assets/es_kopi.jpg
+    - assets/kopi_hangat.jpg
+    - assets/soto_bandung.jpg
+    - assets/es_cendol.jpg
+    - assets/bajigur.jpg
+    - assets/bandrek.jpg
+    - assets/es_teh.jpg
+    - assets/es_doger.jpg
+    - assets/wedank.jpg
+    - assets/jus_buah.jpg
+    - assets/es_cokelat.jpg
+    - assets/default_profile.png
